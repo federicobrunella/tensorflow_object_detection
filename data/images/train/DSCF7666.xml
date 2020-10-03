@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>DSCF7666.JPG</filename>
+	<path>/home/federico/Desktop/tensorflow/dataset/train/DSCF7666.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>2592</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>20-cent</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1937</xmin>
+			<ymin>617</ymin>
+			<xmax>3366</xmax>
+			<ymax>1750</ymax>
+		</bndbox>
+	</object>
+</annotation>
